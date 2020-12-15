@@ -1,1 +1,1 @@
-# Principle-Componant-Analysis
+# Principle-Component-Analysis
