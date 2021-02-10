@@ -1,4 +1,4 @@
 # Principle-Component-Analysis
 
 
-Applying Primciple component analysis on Brest Cancer data
+Applying Principle component analysis on Brest Cancer data
